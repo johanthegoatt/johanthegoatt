@@ -24,7 +24,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - name: Stats card
+        continue-on-error: true
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -33,6 +38,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Top languages card
+        continue-on-error: true
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
@@ -41,14 +47,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Trophies
-        uses: ryo-ma/github-profile-trophy@v1.0
-        with:
-          username: johanthegoatt
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: darkhub
+        continue-on-error: true
+        run: node .github/scripts/trophies.mjs johanthegoatt profile/trophy.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Contribution snake
+        continue-on-error: true
         uses: Platane/snk@v3
         with:
           github_user_name: johanthegoatt
