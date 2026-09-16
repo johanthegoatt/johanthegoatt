@@ -1,3 +1,7 @@
+<a href="https://github-forest.vercel.app">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. A three.js night forest of 100,000 instanced trees swaying in the wind." src="./profile/forest.webp">
+</a>
+
 <h1 align="center">Alphonso "Johan" Braga</h1>
 
 <p align="center">
