@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="150" viewBox="0 0 268 150" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <title>GitHub trophies for johanthegoatt</title>
+  <g transform="translate(0,0)">
+    <rect x="0.5" y="0.5" width="127" height="149" rx="10" fill="#0d1117" stroke="#1d2024"/>
+    <circle cx="64" cy="48" r="28" fill="none" stroke="#5b9dff" stroke-width="2" opacity="0.9"/>
+    <circle cx="64" cy="48" r="22" fill="#5b9dff" opacity="0.12"/>
+    <text x="64" y="53" text-anchor="middle" font-size="15" font-weight="700" fill="#5b9dff">AAA</text>
+    <text x="64" y="100" text-anchor="middle" font-size="13" font-weight="600" fill="#f2f3f5">Builder</text>
+    <text x="64" y="122" text-anchor="middle" font-size="12" fill="#a2a8b0">35 Repositories</text>
+  </g>
+  <g transform="translate(140,0)">
+    <rect x="0.5" y="0.5" width="127" height="149" rx="10" fill="#0d1117" stroke="#1d2024"/>
+    <circle cx="64" cy="48" r="28" fill="none" stroke="#ffd166" stroke-width="2" opacity="0.9"/>
+    <circle cx="64" cy="48" r="22" fill="#ffd166" opacity="0.12"/>
+    <text x="64" y="55" text-anchor="middle" font-size="20" font-weight="700" fill="#ffd166">S</text>
+    <text x="64" y="100" text-anchor="middle" font-size="13" font-weight="600" fill="#f2f3f5">Polyglot</text>
+    <text x="64" y="122" text-anchor="middle" font-size="12" fill="#a2a8b0">10 Languages</text>
+  </g>
+</svg>
