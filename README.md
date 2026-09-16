@@ -1,5 +1,5 @@
-<a href="https://github-forest.vercel.app">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. A three.js night forest of 100,000 instanced trees swaying in the wind." src="./profile/forest.webp">
+<a href="https://github-world-gold.vercel.app">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer, on a glass panel inside a three.js alien valley, while a procedurally animated centipede crawls over the name." src="./profile/world.webp">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/57%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/24%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/58%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/28%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&style=flat-square&color=5b9dff&labelColor=08090a">
 </p>
 
@@ -18,7 +18,7 @@
 
 ### What I build
 
-Projects that run, not screenshots of projects. Twenty-four of them run in a browser tab and have to
+Projects that run, not screenshots of projects. Twenty-eight of them run in a browser tab and have to
 hold their frame rate while they do it, driving hand and face tracking through WebGL particles or
 compute shaders written in WGSL. The rest carry a real backend: schemas, migrations, HTTP APIs, a
 CRDT that reconverges three offline replicas without a server deciding anything. Some are desktop
@@ -43,7 +43,7 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 57 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 58 projects</b></a></p>
 
 ---
 
