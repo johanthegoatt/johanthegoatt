@@ -114,28 +114,7 @@ stale copy of its own app.
 ### The numbers
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://johan-cards.vercel.app/api?username=johanthegoatt&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=08090a&title_color=5b9dff&text_color=a2a8b0&icon_color=5b9dff&ring_color=5b9dff">
-  <img height="165" alt="Top languages" src="https://johan-cards.vercel.app/api/top-langs/?username=johanthegoatt&layout=compact&langs_count=10&hide_border=true&bg_color=08090a&title_color=5b9dff&text_color=a2a8b0">
-</p>
-
-<p align="center">
   <img height="165" alt="Commit streak" src="https://streak-stats.demolab.com?user=johanthegoatt&hide_border=true&background=08090a&ring=5b9dff&fire=5b9dff&currStreakNum=f2f3f5&sideNums=f2f3f5&currStreakLabel=5b9dff&sideLabels=a2a8b0&dates=7b828b&stroke=1d2024">
-</p>
-
----
-
-### Contributions
-
-<p align="center">
-  <img alt="Contribution grid" src="https://ghchart.rshah.org/5b9dff/johanthegoatt">
-</p>
-
----
-
-### Trophies
-
-<p align="center">
-  <img alt="Trophies" src="https://johan-trophy.vercel.app/?username=johanthegoatt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6">
 </p>
 
 ---
@@ -146,7 +125,7 @@ stale copy of its own app.
 ### Coding time
 
 <p align="center">
-  <img alt="WakaTime stats" src="https://johan-cards.vercel.app/api/wakatime?username=johanthegoatt&layout=compact&langs_count=8&hide_border=true&bg_color=08090a&title_color=5b9dff&text_color=a2a8b0&custom_title=Where%20the%20hours%20go">
+  <img alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=johanthegoatt&layout=compact&langs_count=8&hide_border=true&bg_color=08090a&title_color=5b9dff&text_color=a2a8b0&custom_title=Where%20the%20hours%20go">
 </p>
 
 -->
