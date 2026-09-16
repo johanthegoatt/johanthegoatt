@@ -135,7 +135,7 @@ stale copy of its own app.
 ### Trophies
 
 <p align="center">
-  <img width="100%" alt="Trophies" src="./profile/trophy.svg">
+  <img alt="Trophies" src="./profile/trophy.svg">
 </p>
 
 ---
