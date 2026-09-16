@@ -2,8 +2,6 @@
   <img width="100%" alt="Alphonso Braga, full-stack engineer. A three.js night forest of 100,000 instanced trees swaying in the wind." src="./profile/forest.webp">
 </a>
 
-<h1 align="center">Alphonso "Johan" Braga</h1>
-
 <p align="center">
   <b>Full-stack engineer.</b> I write the interface, the service behind it and the schema under that,
   <br>in whichever language the problem actually wants.
