@@ -114,7 +114,28 @@ stale copy of its own app.
 ### The numbers
 
 <p align="center">
+  <img height="170" alt="GitHub stats" src="./profile/stats.svg">
+  <img height="170" alt="Top languages" src="./profile/top-langs.svg">
+</p>
+
+<p align="center">
   <img height="165" alt="Commit streak" src="https://streak-stats.demolab.com?user=johanthegoatt&hide_border=true&background=08090a&ring=5b9dff&fire=5b9dff&currStreakNum=f2f3f5&sideNums=f2f3f5&currStreakLabel=5b9dff&sideLabels=a2a8b0&dates=7b828b&stroke=1d2024">
+</p>
+
+---
+
+### Contributions
+
+<p align="center">
+  <img width="100%" alt="Contribution snake" src="./profile/snake.svg">
+</p>
+
+---
+
+### Trophies
+
+<p align="center">
+  <img width="100%" alt="Trophies" src="./profile/trophy.svg">
 </p>
 
 ---
