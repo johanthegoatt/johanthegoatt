@@ -1,5 +1,5 @@
-<a href="https://github-world-gold.vercel.app">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer, on a glass panel inside a three.js alien valley, while a procedurally animated centipede crawls over the name." src="./profile/world.webp">
+<a href="https://johanthegoat.xyz">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 63 projects, 33 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/58%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/28%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/63%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/33%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&style=flat-square&color=5b9dff&labelColor=08090a">
 </p>
 
@@ -18,7 +18,7 @@
 
 ### What I build
 
-Projects that run, not screenshots of projects. Twenty-eight of them run in a browser tab and have to
+Projects that run, not screenshots of projects. Thirty-three of them run in a browser tab and have to
 hold their frame rate while they do it, driving hand and face tracking through WebGL particles or
 compute shaders written in WGSL. The rest carry a real backend: schemas, migrations, HTTP APIs, a
 CRDT that reconverges three offline replicas without a server deciding anything. Some are desktop
@@ -34,6 +34,8 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Rate Limit Lab](https://johanthegoat.xyz/work/ratelimit-lab/)** | Five rate limiting algorithms, an HTTP middleware that speaks the IETF RateLimit headers, and a simulator that runs them side by side. | JavaScript, Node |
+| **[Idempotency Lab](https://github.com/johanthegoatt/idempotency-lab)** | An Idempotency-Key middleware for node:http built to the IETF draft, and a simulator that shows what retries do to a payments API with and without it. | JavaScript, Node |
 | **[Lux](https://johanthegoat.xyz/work/lux/)** | A business operating system. A business signs up, picks its type, and gets a public site, a customer record, a booking or order flow and numbers that all know about each other. | Next.js, TypeScript, PostgreSQL |
 | **[Kivo](https://johanthegoat.xyz/work/kivo/)** | A life operating system: one account holding Money, School, Commute, Life and Local, with a home brief that reads all five together to say what the day asks of you. | Next.js, TypeScript, PostgreSQL |
 | **[Aegis Scan](https://johanthegoat.xyz/work/aegis-scan/)** | Defensive web-security assessment. Passive scans of headers, cookies, TLS, DNS and technology hints, graded A to F with a remediation report. | Next.js, Drizzle, PostgreSQL |
@@ -43,7 +45,7 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 58 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 63 projects</b></a></p>
 
 ---
 
