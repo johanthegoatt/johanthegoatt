@@ -11,7 +11,7 @@
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/63%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/33%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&style=flat-square&color=5b9dff&labelColor=08090a">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
 ---
