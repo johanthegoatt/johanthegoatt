@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 63 projects, 33 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 78 projects, 49 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/63%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/33%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/78%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/49%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -18,7 +18,7 @@
 
 ### What I build
 
-Projects that run, not screenshots of projects. Thirty-three of them run in a browser tab and have to
+Projects that run, not screenshots of projects. Forty-nine of them run in a browser tab and have to
 hold their frame rate while they do it, driving hand and face tracking through WebGL particles or
 compute shaders written in WGSL. The rest carry a real backend: schemas, migrations, HTTP APIs, a
 CRDT that reconverges three offline replicas without a server deciding anything. Some are desktop
@@ -34,6 +34,9 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Shelf Check](https://johanthegoat.xyz/work/shelf-check/)** | Type what each shelf label says and see which pack is really cheaper, with multi-buy offers counted and the bigger-pack trap flagged. Works offline in the shop. | JavaScript, PWA |
+| **[EvenUp](https://johanthegoat.xyz/work/evenup/)** | Split group costs and settle up in the fewest payments, solved exactly with a subset dynamic program. Writes the pay-me-back message for you. | JavaScript, SVG |
+| **[MindMesh Board](https://johanthegoat.xyz/work/mindmesh/)** | Jot ideas, link them, and tidy them with a force-directed layout. Keyboard first, a pasted list becomes a map, and deletes stay deleted across tabs. | JavaScript, SVG, BroadcastChannel |
 | **[Rate Limit Lab](https://johanthegoat.xyz/work/ratelimit-lab/)** | Five rate limiting algorithms, an HTTP middleware that speaks the IETF RateLimit headers, and a simulator that runs them side by side. | JavaScript, Node |
 | **[Idempotency Lab](https://github.com/johanthegoatt/idempotency-lab)** | An Idempotency-Key middleware for node:http built to the IETF draft, and a simulator that shows what retries do to a payments API with and without it. | JavaScript, Node |
 | **[Lux](https://johanthegoat.xyz/work/lux/)** | A business operating system. A business signs up, picks its type, and gets a public site, a customer record, a booking or order flow and numbers that all know about each other. | Next.js, TypeScript, PostgreSQL |
@@ -45,7 +48,21 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 63 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 78 projects</b></a></p>
+
+---
+
+### Latest updates
+
+<!-- updates:start -->
+**8 October 2026**: one new project and eight projects improved.
+
+- **New: [Shelf Check](https://github.com/johanthegoatt/shelf-check)** finds the real best deal on a shelf: unit prices, multi-buy offers and big packs that cost more. Tag the price tag mascot helps you pick.
+- **[MindMesh Board](https://github.com/johanthegoatt/mindmesh-board)**: Tidy up with a force-directed layout, Tab to add a linked idea, paste a list to build a map, deletes that stay deleted across tabs, and Pip the thought bubble.
+- **[Load Shedding Lab](https://github.com/johanthegoatt/load-shedding-lab)**: client-side adaptive throttling from the Google SRE book, plus a README and a side by side comparison of every policy.
+- **[Lux](https://github.com/johanthegoatt/lux)**: Sign out shows in the header once you're signed in, and account emails say to check spam.
+- **[Kivo](https://github.com/johanthegoatt/kivo)**, **[Fairdev](https://github.com/johanthegoatt/fairdev)**, **[Pentest](https://github.com/johanthegoatt/pentest)** and **[Python Course Engine](https://github.com/johanthegoatt/python-course-engine)**: sign-in and account emails now tell people to check their spam folder.
+<!-- updates:end -->
 
 ---
 
