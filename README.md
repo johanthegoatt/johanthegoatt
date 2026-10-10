@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[FocusForge](https://johanthegoat.xyz/work/focusforge/)** | A focus timer that keeps time in a hidden or reloaded tab, rings when time is up and shows where your week went, with Ember the spark mascot. | JavaScript, Web Audio, SVG |
 | **[Shelf Check](https://johanthegoat.xyz/work/shelf-check/)** | Type what each shelf label says and see which pack is really cheaper, with multi-buy offers counted and the bigger-pack trap flagged. Works offline in the shop. | JavaScript, PWA |
 | **[EvenUp](https://johanthegoat.xyz/work/evenup/)** | Split group costs and settle up in the fewest payments, solved exactly with a subset dynamic program. Writes the pay-me-back message for you. | JavaScript, SVG |
 | **[MindMesh Board](https://johanthegoat.xyz/work/mindmesh/)** | Jot ideas, link them, and tidy them with a force-directed layout. Keyboard first, a pasted list becomes a map, and deletes stay deleted across tabs. | JavaScript, SVG, BroadcastChannel |
@@ -55,13 +56,14 @@ stale copy of its own app.
 ### Latest updates
 
 <!-- updates:start -->
-**8 October 2026**: one new project and eight projects improved.
+**10 October 2026**: two new projects and four projects improved.
 
-- **New: [Shelf Check](https://github.com/johanthegoatt/shelf-check)** finds the real best deal on a shelf: unit prices, multi-buy offers and big packs that cost more. Tag the price tag mascot helps you pick.
-- **[MindMesh Board](https://github.com/johanthegoatt/mindmesh-board)**: Tidy up with a force-directed layout, Tab to add a linked idea, paste a list to build a map, deletes that stay deleted across tabs, and Pip the thought bubble.
-- **[Load Shedding Lab](https://github.com/johanthegoatt/load-shedding-lab)**: client-side adaptive throttling from the Google SRE book, plus a README and a side by side comparison of every policy.
-- **[Lux](https://github.com/johanthegoatt/lux)**: Sign out shows in the header once you're signed in, and account emails say to check spam.
-- **[Kivo](https://github.com/johanthegoatt/kivo)**, **[Fairdev](https://github.com/johanthegoatt/fairdev)**, **[Pentest](https://github.com/johanthegoatt/pentest)** and **[Python Course Engine](https://github.com/johanthegoatt/python-course-engine)**: sign-in and account emails now tell people to check their spam folder.
+- **New: [Snapsize](https://github.com/johanthegoatt/snapsize)** turns any phone photo into a passport or visa photo at the right size and head size, plus a 4x6 print sheet. Flash the camera mascot walks you through it.
+- **New: [Photo Fit](https://github.com/johanthegoatt/photo-fit)** gets an ID, exam form or signature photo past the upload page: right shape, pixels and file size. With Snap the camera helper.
+- **[FocusForge](https://github.com/johanthegoatt/focusforge-tracker)**: the timer now survives a tab reload, logs a finished block by itself, rings when time's up, totals your week by what you worked on, and has Ember the spark mascot.
+- **[EvenUp](https://github.com/johanthegoatt/evenup)**: costs paid in another currency, using the rate from your statement.
+- **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: toilet paper compared per 100 sheets, and a "% cheaper" fix.
+- **[Siphon](https://github.com/johanthegoatt/siphon)**: flags free trials that turned paid and charges that just started.
 <!-- updates:end -->
 
 ---
