@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 78 projects, 49 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 79 projects, 50 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[ChoreShare](https://johanthegoat.xyz/work/choreshare/)** | A fair chore rota for a shared house or family. Splits jobs by time, not count, rotates the worst ones and writes the group chat message. Suds the soap bubble helps. | JavaScript, SVG |
 | **[FocusForge](https://johanthegoat.xyz/work/focusforge/)** | A focus timer that keeps time in a hidden or reloaded tab, rings when time is up and shows where your week went, with Ember the spark mascot. | JavaScript, Web Audio, SVG |
 | **[Shelf Check](https://johanthegoat.xyz/work/shelf-check/)** | Type what each shelf label says and see which pack is really cheaper, with multi-buy offers counted and the bigger-pack trap flagged. Works offline in the shop. | JavaScript, PWA |
 | **[EvenUp](https://johanthegoat.xyz/work/evenup/)** | Split group costs and settle up in the fewest payments, solved exactly with a subset dynamic program. Writes the pay-me-back message for you. | JavaScript, SVG |
@@ -49,21 +50,20 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 78 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 79 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
-**10 October 2026**: two new projects and four projects improved.
+**11 October 2026**: one new project and four projects improved.
 
-- **New: [Snapsize](https://github.com/johanthegoatt/snapsize)** turns any phone photo into a passport or visa photo at the right size and head size, plus a 4x6 print sheet. Flash the camera mascot walks you through it.
-- **New: [Photo Fit](https://github.com/johanthegoatt/photo-fit)** gets an ID, exam form or signature photo past the upload page: right shape, pixels and file size. With Snap the camera helper.
-- **[FocusForge](https://github.com/johanthegoatt/focusforge-tracker)**: the timer now survives a tab reload, logs a finished block by itself, rings when time's up, totals your week by what you worked on, and has Ember the spark mascot.
-- **[EvenUp](https://github.com/johanthegoatt/evenup)**: costs paid in another currency, using the rate from your statement.
-- **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: toilet paper compared per 100 sheets, and a "% cheaper" fix.
-- **[Siphon](https://github.com/johanthegoatt/siphon)**: flags free trials that turned paid and charges that just started.
+- **New: [ChoreShare](https://github.com/johanthegoatt/choreshare)** splits the chores in a shared house or family fairly by time, rotates the worst jobs and writes the group chat message. Suds the soap bubble helps you set it up. [Try it](https://choreshare.johanthegoat.xyz).
+- **[Snake Arena Remix](https://github.com/johanthegoatt/snake-arena-remix)**: fast turns no longer get lost, chasing your own tail is allowed, levels go up again, and you can swipe to play on a phone.
+- **[Brick Breaker](https://github.com/johanthegoatt/brick-breaker-rebuild)**: 2-hit bricks no longer break in one bounce, and you can play with a finger and tap to launch.
+- **[Arcade Wave Survivor](https://github.com/johanthegoatt/arcade-wave-survivor)**: pick an upgrade after every wave, and enemies no longer spawn on top of you or stack into one blob.
+- **[Grid Defender](https://github.com/johanthegoatt/grid-defender)**: taps land on the right tile on phones, turrets stop shooting enemies that are already dead, and you can upgrade or sell a turret with a tap.
 <!-- updates:end -->
 
 ---
