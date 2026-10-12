@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 79 projects, 50 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 80 projects, 51 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/78%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/49%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/80%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/51%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -18,7 +18,7 @@
 
 ### What I build
 
-Projects that run, not screenshots of projects. Forty-nine of them run in a browser tab and have to
+Projects that run, not screenshots of projects. Fifty-one of them run in a browser tab and have to
 hold their frame rate while they do it, driving hand and face tracking through WebGL particles or
 compute shaders written in WGSL. The rest carry a real backend: schemas, migrations, HTTP APIs, a
 CRDT that reconverges three offline replicas without a server deciding anything. Some are desktop
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Batchwise](https://johanthegoat.xyz/work/batchwise/)** | Make any recipe bigger, smaller or fit your pan. Writes amounts in the cups and spoons you own, or grams from a real weight chart, and handles part of an egg. Scoop the measuring cup helps. | JavaScript, SVG |
 | **[ChoreShare](https://johanthegoat.xyz/work/choreshare/)** | A fair chore rota for a shared house or family. Splits jobs by time, not count, rotates the worst ones and writes the group chat message. Suds the soap bubble helps. | JavaScript, SVG |
 | **[FocusForge](https://johanthegoat.xyz/work/focusforge/)** | A focus timer that keeps time in a hidden or reloaded tab, rings when time is up and shows where your week went, with Ember the spark mascot. | JavaScript, Web Audio, SVG |
 | **[Shelf Check](https://johanthegoat.xyz/work/shelf-check/)** | Type what each shelf label says and see which pack is really cheaper, with multi-buy offers counted and the bigger-pack trap flagged. Works offline in the shop. | JavaScript, PWA |
@@ -50,20 +51,20 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 79 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 80 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
-**11 October 2026**: one new project and four projects improved.
+**12 October 2026**: one new project and four projects improved.
 
-- **New: [ChoreShare](https://github.com/johanthegoatt/choreshare)** splits the chores in a shared house or family fairly by time, rotates the worst jobs and writes the group chat message. Suds the soap bubble helps you set it up. [Try it](https://choreshare.johanthegoat.xyz).
-- **[Snake Arena Remix](https://github.com/johanthegoatt/snake-arena-remix)**: fast turns no longer get lost, chasing your own tail is allowed, levels go up again, and you can swipe to play on a phone.
-- **[Brick Breaker](https://github.com/johanthegoatt/brick-breaker-rebuild)**: 2-hit bricks no longer break in one bounce, and you can play with a finger and tap to launch.
-- **[Arcade Wave Survivor](https://github.com/johanthegoatt/arcade-wave-survivor)**: pick an upgrade after every wave, and enemies no longer spawn on top of you or stack into one blob.
-- **[Grid Defender](https://github.com/johanthegoatt/grid-defender)**: taps land on the right tile on phones, turrets stop shooting enemies that are already dead, and you can upgrade or sell a turret with a tap.
+- **New: [Batchwise](https://github.com/johanthegoatt/batchwise)** makes any recipe bigger, smaller or fit the pan you have, with amounts in cups and spoons you own or in grams. Scoop the measuring cup helps along the way. [Try it](https://batchwise.johanthegoat.xyz).
+- **[Eye Aim Trainer](https://github.com/johanthegoatt/eye-aim-trainer)**: gaze mode now actually moves the crosshair, with a nine-dot calibration first and smoothing so it stops shaking.
+- **[Gesture Pong Arena](https://github.com/johanthegoatt/gesture-pong-arena)**: fast balls no longer pass straight through the paddle, hand control is smoother, and there is a short pause before each serve.
+- **[Pose Beat Blaster](https://github.com/johanthegoatt/pose-beat-blaster)**: holding an arm up no longer hits every beat, a wobbling wrist doesn't fire twice, and the speed-up no longer runs away.
+- **[Cam Chaos Booth](https://github.com/johanthegoatt/cam-chaos-booth)**: a 3 or 10 second self-timer for photos, and the preview is flipped like a mirror.
 <!-- updates:end -->
 
 ---
