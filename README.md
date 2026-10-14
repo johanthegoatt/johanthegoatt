@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 80 projects, 51 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 81 projects, 52 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/80%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/51%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/81%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/52%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[RoomCoat](https://johanthegoat.xyz/work/roomcoat/)** | Measure a room and see how much paint it needs and the cheapest tins to buy, with doors, windows, ceilings and new plaster counted. Dab the paint tin helps. | JavaScript, SVG |
 | **[Batchwise](https://johanthegoat.xyz/work/batchwise/)** | Make any recipe bigger, smaller or fit your pan. Writes amounts in the cups and spoons you own, or grams from a real weight chart, and handles part of an egg. Scoop the measuring cup helps. | JavaScript, SVG |
 | **[ChoreShare](https://johanthegoat.xyz/work/choreshare/)** | A fair chore rota for a shared house or family. Splits jobs by time, not count, rotates the worst ones and writes the group chat message. Suds the soap bubble helps. | JavaScript, SVG |
 | **[FocusForge](https://johanthegoat.xyz/work/focusforge/)** | A focus timer that keeps time in a hidden or reloaded tab, rings when time is up and shows where your week went, with Ember the spark mascot. | JavaScript, Web Audio, SVG |
@@ -51,20 +52,20 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 80 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 81 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
-**12 October 2026**: one new project and four projects improved.
+**14 October 2026**: one new project and four projects improved.
 
-- **New: [Batchwise](https://github.com/johanthegoatt/batchwise)** makes any recipe bigger, smaller or fit the pan you have, with amounts in cups and spoons you own or in grams. Scoop the measuring cup helps along the way. [Try it](https://batchwise.johanthegoat.xyz).
-- **[Eye Aim Trainer](https://github.com/johanthegoatt/eye-aim-trainer)**: gaze mode now actually moves the crosshair, with a nine-dot calibration first and smoothing so it stops shaking.
-- **[Gesture Pong Arena](https://github.com/johanthegoatt/gesture-pong-arena)**: fast balls no longer pass straight through the paddle, hand control is smoother, and there is a short pause before each serve.
-- **[Pose Beat Blaster](https://github.com/johanthegoatt/pose-beat-blaster)**: holding an arm up no longer hits every beat, a wobbling wrist doesn't fire twice, and the speed-up no longer runs away.
-- **[Cam Chaos Booth](https://github.com/johanthegoatt/cam-chaos-booth)**: a 3 or 10 second self-timer for photos, and the preview is flipped like a mirror.
+- **New: [RoomCoat](https://github.com/johanthegoatt/roomcoat)** works out how much paint a room needs and the cheapest mix of tins to buy, with doors, windows, ceilings and new plaster counted. Dab the paint tin helps along the way. [Try it](https://roomcoat.johanthegoat.xyz).
+- **[MoodMix Lab](https://github.com/johanthegoatt/moodmix-lab)**: energy ramp now keeps your best matches instead of swapping in the worst ones, and each preview sounds like the track's mood.
+- **[Face Mesh Frenzy](https://github.com/johanthegoatt/face-mesh-frenzy)**: 20 second eye breaks every 20 minutes that don't count as drifting, and an on-screen countdown so you can see what the monitor is doing.
+- **[Globe Control](https://github.com/johanthegoatt/globe-control)**: no camera needed any more, turn and zoom the globe with a mouse, touch or the keyboard.
+- **[Vortex Builder](https://github.com/johanthegoatt/vortex-builder)**: undo and redo, so a stray pinch or the clear key no longer wipes your build.
 <!-- updates:end -->
 
 ---
