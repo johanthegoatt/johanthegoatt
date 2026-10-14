@@ -59,13 +59,14 @@ stale copy of its own app.
 ### Latest updates
 
 <!-- updates:start -->
-**14 October 2026**: one new project and four projects improved.
+**14 October 2026**: one new project and five projects improved.
 
 - **New: [RoomCoat](https://github.com/johanthegoatt/roomcoat)** works out how much paint a room needs and the cheapest mix of tins to buy, with doors, windows, ceilings and new plaster counted. Dab the paint tin helps along the way. [Try it](https://roomcoat.johanthegoat.xyz).
 - **[MoodMix Lab](https://github.com/johanthegoatt/moodmix-lab)**: energy ramp now keeps your best matches instead of swapping in the worst ones, and each preview sounds like the track's mood.
 - **[Face Mesh Frenzy](https://github.com/johanthegoatt/face-mesh-frenzy)**: 20 second eye breaks every 20 minutes that don't count as drifting, and an on-screen countdown so you can see what the monitor is doing.
 - **[Globe Control](https://github.com/johanthegoatt/globe-control)**: no camera needed any more, turn and zoom the globe with a mouse, touch or the keyboard.
 - **[Vortex Builder](https://github.com/johanthegoatt/vortex-builder)**: undo and redo, so a stray pinch or the clear key no longer wipes your build.
+- **[Autopilot Ops](https://github.com/johanthegoatt/autopilot-ops-py)**: the weekly plan now fits the most value into your hours instead of grabbing the top scores first, and tells you why each task was left out.
 <!-- updates:end -->
 
 ---
