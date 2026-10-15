@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 81 projects, 52 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 82 projects, 53 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/81%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/52%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/82%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/53%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[GoodHours](https://johanthegoat.xyz/work/goodhours/)** | Add where everyone is and when they work, and see the meeting times inside everyone's day, with clock change warnings and fair turn-taking when nobody's day lines up. Sol the sun helps. | JavaScript, Intl API, SVG |
 | **[RoomCoat](https://johanthegoat.xyz/work/roomcoat/)** | Measure a room and see how much paint it needs and the cheapest tins to buy, with doors, windows, ceilings and new plaster counted. Dab the paint tin helps. | JavaScript, SVG |
 | **[Batchwise](https://johanthegoat.xyz/work/batchwise/)** | Make any recipe bigger, smaller or fit your pan. Writes amounts in the cups and spoons you own, or grams from a real weight chart, and handles part of an egg. Scoop the measuring cup helps. | JavaScript, SVG |
 | **[ChoreShare](https://johanthegoat.xyz/work/choreshare/)** | A fair chore rota for a shared house or family. Splits jobs by time, not count, rotates the worst ones and writes the group chat message. Suds the soap bubble helps. | JavaScript, SVG |
@@ -52,21 +53,20 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 81 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 82 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
-**14 October 2026**: one new project and five projects improved.
+**15 October 2026**: one new project and four projects improved.
 
-- **New: [RoomCoat](https://github.com/johanthegoatt/roomcoat)** works out how much paint a room needs and the cheapest mix of tins to buy, with doors, windows, ceilings and new plaster counted. Dab the paint tin helps along the way. [Try it](https://roomcoat.johanthegoat.xyz).
-- **[MoodMix Lab](https://github.com/johanthegoatt/moodmix-lab)**: energy ramp now keeps your best matches instead of swapping in the worst ones, and each preview sounds like the track's mood.
-- **[Face Mesh Frenzy](https://github.com/johanthegoatt/face-mesh-frenzy)**: 20 second eye breaks every 20 minutes that don't count as drifting, and an on-screen countdown so you can see what the monitor is doing.
-- **[Globe Control](https://github.com/johanthegoatt/globe-control)**: no camera needed any more, turn and zoom the globe with a mouse, touch or the keyboard.
-- **[Vortex Builder](https://github.com/johanthegoatt/vortex-builder)**: undo and redo, so a stray pinch or the clear key no longer wipes your build.
-- **[Autopilot Ops](https://github.com/johanthegoatt/autopilot-ops-py)**: the weekly plan now fits the most value into your hours instead of grabbing the top scores first, and tells you why each task was left out.
+- **New: [GoodHours](https://github.com/johanthegoatt/goodhours)** finds a meeting time that lands inside everyone's working day across time zones, warns you before clocks change, and writes the invite in each person's own time. Sol the sun turns into a sleepy moon when a time is the middle of the night for someone. [Try it](https://goodhours.johanthegoat.xyz).
+- **[Velocity Lens](https://github.com/johanthegoatt/velocity-lens-java)**: plans the sprint from your own backlog CSV and packs it for the most value instead of grabbing the top scores first, with a reason for every task left out.
+- **[Workflow CLI Kit](https://github.com/johanthegoatt/workflow-cli-kit)**: README checks no longer count headings inside code examples or empty sections, and runbooks are built from the project's real scripts and package manager.
+- **[Hollow Purple](https://github.com/johanthegoatt/gojo-hollow-purple-web)**: hand gestures now work at any angle and any distance from the camera, and the camera says why it couldn't start.
+- **[SAT0RU](https://github.com/johanthegoatt/sat0ru-main)**: keeps both hands when the tracker labels them the same side, and the backup gesture reader works with a tilted hand.
 <!-- updates:end -->
 
 ---
