@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/82%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/53%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/83%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/54%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Prorate](https://prorate.johanthegoat.xyz)** | Work out a mid-month move's rent three ways at once, see the gap between the methods, and add up the full cheque for day one. Kee the key helps. | JavaScript, SVG |
 | **[GoodHours](https://johanthegoat.xyz/work/goodhours/)** | Add where everyone is and when they work, and see the meeting times inside everyone's day, with clock change warnings and fair turn-taking when nobody's day lines up. Sol the sun helps. | JavaScript, Intl API, SVG |
 | **[RoomCoat](https://johanthegoat.xyz/work/roomcoat/)** | Measure a room and see how much paint it needs and the cheapest tins to buy, with doors, windows, ceilings and new plaster counted. Dab the paint tin helps. | JavaScript, SVG |
 | **[Batchwise](https://johanthegoat.xyz/work/batchwise/)** | Make any recipe bigger, smaller or fit your pan. Writes amounts in the cups and spoons you own, or grams from a real weight chart, and handles part of an egg. Scoop the measuring cup helps. | JavaScript, SVG |
@@ -53,13 +54,20 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 82 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 83 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**16 October 2026**: one new project and three projects improved.
+
+- **New: [Prorate](https://github.com/johanthegoatt/prorate)** works out part-month rent three ways at once for a mid-month move, shows the gap between the methods, and adds up the full cheque you write on day one. Kee the key jingles when the numbers land. [Try it](https://prorate.johanthegoat.xyz).
+- **[Photo Fit](https://github.com/johanthegoatt/photo-fit)**: added Australia, Japan, India e-Visa/OCI and China presets, each carrying the size, head band and file limits from the issuing authority.
+- **[ChoreShare](https://github.com/johanthegoatt/choreshare)**: a chore no longer lands on the same person two turns running while someone else is free, so the worst jobs actually rotate.
+- **[Batchwise](https://github.com/johanthegoatt/batchwise)**: the gram chart now covers almond flour, cornmeal, cream cheese, molasses, dates, semolina and shredded coconut from King Arthur's weights.
+
 **15 October 2026**: one new project and four projects improved.
 
 - **New: [GoodHours](https://github.com/johanthegoatt/goodhours)** finds a meeting time that lands inside everyone's working day across time zones, warns you before clocks change, and writes the invite in each person's own time. Sol the sun turns into a sleepy moon when a time is the middle of the night for someone. [Try it](https://goodhours.johanthegoat.xyz).
