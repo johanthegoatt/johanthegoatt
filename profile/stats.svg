@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Alphonso Braga&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Commits  : 199</desc>
+        <title id="titleId">Alphonso Braga&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Commits  : 1000314</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 245.9303317083604;
+        stroke-dashoffset: 209.4395102393196;
       }
     }
   
@@ -169,7 +169,7 @@
         x="174.01"
         y="12.5"
         data-testid="commits"
-      >199</text>
+      >1000.3k</text>
     </g>
   </g>
     </svg>
