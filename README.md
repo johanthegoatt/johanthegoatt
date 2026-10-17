@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/84%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/54%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/55%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,7 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **[Wattson](https://github.com/johanthegoatt/wattson)** | Add the things in your home and see what each one costs to run for a year, with the standby you forget about counted and the daily standing charge kept separate. Watt the meter helps. | JavaScript, SVG |
+| **[Wattson](https://wattson.johanthegoat.xyz)** | Add the things in your home and see what each one costs to run for a year, with the standby you forget about counted and the daily standing charge kept separate. Watt the meter helps. | JavaScript, SVG |
 | **[Prorate](https://prorate.johanthegoat.xyz)** | Work out a mid-month move's rent three ways at once, see the gap between the methods, and add up the full cheque for day one. Kee the key helps. | JavaScript, SVG |
 | **[GoodHours](https://johanthegoat.xyz/work/goodhours/)** | Add where everyone is and when they work, and see the meeting times inside everyone's day, with clock change warnings and fair turn-taking when nobody's day lines up. Sol the sun helps. | JavaScript, Intl API, SVG |
 | **[RoomCoat](https://johanthegoat.xyz/work/roomcoat/)** | Measure a room and see how much paint it needs and the cheapest tins to buy, with doors, windows, ceilings and new plaster counted. Dab the paint tin helps. | JavaScript, SVG |
@@ -64,7 +64,7 @@ stale copy of its own app.
 <!-- updates:start -->
 **17 October 2026**: one new project and four projects improved.
 
-- **New: [Wattson](https://github.com/johanthegoatt/wattson)** adds up what each thing in your home costs to run for a year, counts the standby you forget about, and keeps the daily standing charge on its own so you see what you can actually change. Watt the meter buzzes when the year lands.
+- **New: [Wattson](https://github.com/johanthegoatt/wattson)** adds up what each thing in your home costs to run for a year, counts the standby you forget about, and keeps the daily standing charge on its own so you see what you can actually change. Watt the meter buzzes when the year lands. [Try it](https://wattson.johanthegoat.xyz).
 - **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: type a loyalty or member price and it ranks on what you'd really pay with the card, and says when the card changes which pack is the best buy.
 - **[Batchwise](https://github.com/johanthegoatt/batchwise)**: a new oven temperature card converts a recipe's heat between a normal oven and a fan oven, in °C, °F and gas mark.
 - **[RoomCoat](https://github.com/johanthegoatt/roomcoat)**: enter the paint already in the cupboard and it comes off the shopping list, so you buy around it instead of adding to the pile.
