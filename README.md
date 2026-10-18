@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/84%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/55%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/85%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/56%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Fridgewise](https://fridgewise.johanthegoat.xyz)** | Keep a quick list of what's in your fridge, freezer and cupboard and it sorts itself by what to eat first, using published food storage times so less gets thrown away. Frost the fridge keeps watch. | JavaScript, SVG |
 | **[Wattson](https://wattson.johanthegoat.xyz)** | Add the things in your home and see what each one costs to run for a year, with the standby you forget about counted and the daily standing charge kept separate. Watt the meter helps. | JavaScript, SVG |
 | **[Prorate](https://prorate.johanthegoat.xyz)** | Work out a mid-month move's rent three ways at once, see the gap between the methods, and add up the full cheque for day one. Kee the key helps. | JavaScript, SVG |
 | **[GoodHours](https://johanthegoat.xyz/work/goodhours/)** | Add where everyone is and when they work, and see the meeting times inside everyone's day, with clock change warnings and fair turn-taking when nobody's day lines up. Sol the sun helps. | JavaScript, Intl API, SVG |
@@ -55,13 +56,21 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 84 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 85 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**18 October 2026**: one new project and four projects improved.
+
+- **New: [Fridgewise](https://github.com/johanthegoatt/fridgewise)** keeps a list of what's in your fridge, freezer and cupboard and sorts it by what to eat first, using published food storage times so less gets thrown away. Frost the fridge looks worried when something needs eating today. [Try it](https://fridgewise.johanthegoat.xyz).
+- **[EvenUp](https://github.com/johanthegoatt/evenup)**: add a tip or service charge to a cost and it's shared the same way as the bill, so whoever had more pays a little more of it.
+- **[Siphon](https://github.com/johanthegoatt/siphon)**: shows how much each subscription has actually cost so far, per one and as a total, because people guess their subscription spend far too low.
+- **[Wattson](https://github.com/johanthegoatt/wattson)**: puts the carbon next to the cost, turning a year's electricity into kilograms of CO₂ and an easy "like driving X miles".
+- **[ChoreShare](https://github.com/johanthegoatt/choreshare)**: mark a chore someone can't do at all, like a child and bleach or a bad back, and it never lands on them unless nobody else can take it.
+
 **17 October 2026**: one new project and four projects improved.
 
 - **New: [Wattson](https://github.com/johanthegoatt/wattson)** adds up what each thing in your home costs to run for a year, counts the standby you forget about, and keeps the daily standing charge on its own so you see what you can actually change. Watt the meter buzzes when the year lands. [Try it](https://wattson.johanthegoat.xyz).
