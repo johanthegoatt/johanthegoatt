@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/85%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/56%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/86%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/57%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Recoup](https://recoup.johanthegoat.xyz)** | Track the last day you can take things back. It counts down every return window, sorts by what closes first, and knows the rights the law gives you on top of the shop's policy. Fetch the dog keeps watch. | JavaScript, SVG |
 | **[Fridgewise](https://fridgewise.johanthegoat.xyz)** | Keep a quick list of what's in your fridge, freezer and cupboard and it sorts itself by what to eat first, using published food storage times so less gets thrown away. Frost the fridge keeps watch. | JavaScript, SVG |
 | **[Wattson](https://wattson.johanthegoat.xyz)** | Add the things in your home and see what each one costs to run for a year, with the standby you forget about counted and the daily standing charge kept separate. Watt the meter helps. | JavaScript, SVG |
 | **[Prorate](https://prorate.johanthegoat.xyz)** | Work out a mid-month move's rent three ways at once, see the gap between the methods, and add up the full cheque for day one. Kee the key helps. | JavaScript, SVG |
@@ -56,13 +57,21 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 85 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 86 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**19 October 2026**: one new project and four projects improved.
+
+- **New: [Recoup](https://github.com/johanthegoatt/recoup)** tracks the last day you can take things back, counts down the days, and knows the return rights the law gives you on top of the shop's own policy. Fetch the dog keeps an eye on the dates. [Try it](https://recoup.johanthegoat.xyz).
+- **[Wattson](https://github.com/johanthegoatt/wattson)**: add a cheaper night rate (Economy 7) and tick what you run overnight, and it charges those at the night rate and shows what moving them to the cheap hours saves over a year.
+- **[Siphon](https://github.com/johanthegoatt/siphon)**: points out when two subscriptions do the same job, like two music apps or two cloud drives, and adds up what the pair costs a year.
+- **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: compare concentrates fairly by typing what the bottle makes, so it ranks on the price per made-up litre, not the price per bottle.
+- **[Fridgewise](https://github.com/johanthegoatt/fridgewise)**: type the date printed on a pack and say if it's a use-by or a best-before, and it gives the right advice for each, safety for a use-by and quality for a best-before.
+
 **18 October 2026**: one new project and four projects improved.
 
 - **New: [Fridgewise](https://github.com/johanthegoatt/fridgewise)** keeps a list of what's in your fridge, freezer and cupboard and sorts it by what to eat first, using published food storage times so less gets thrown away. Frost the fridge looks worried when something needs eating today. [Try it](https://fridgewise.johanthegoat.xyz).
