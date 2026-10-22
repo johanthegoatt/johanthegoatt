@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 82 projects, 53 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 87 projects, 58 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/86%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/57%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/87%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/58%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,8 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Readyby](https://readyby.johanthegoat.xyz)** | Tell it what you're cooking and when you want to eat, and it works out when to start each dish so the roast, the potatoes and the veg all land together, with safe pull temperatures and an oven-clash check. Ding the kitchen timer helps. | JavaScript, SVG |
+| **[Divvy](https://divvy.johanthegoat.xyz)** | Split the rent when the rooms aren't equal. Everyone says what each room is worth to them and it sets envy-free rents nobody would swap, with shared bills on top. Nook the little house helps. | JavaScript, SVG |
 | **[Recoup](https://recoup.johanthegoat.xyz)** | Track the last day you can take things back. It counts down every return window, sorts by what closes first, and knows the rights the law gives you on top of the shop's policy. Fetch the dog keeps watch. | JavaScript, SVG |
 | **[Fridgewise](https://fridgewise.johanthegoat.xyz)** | Keep a quick list of what's in your fridge, freezer and cupboard and it sorts itself by what to eat first, using published food storage times so less gets thrown away. Frost the fridge keeps watch. | JavaScript, SVG |
 | **[Wattson](https://wattson.johanthegoat.xyz)** | Add the things in your home and see what each one costs to run for a year, with the standby you forget about counted and the daily standing charge kept separate. Watt the meter helps. | JavaScript, SVG |
@@ -57,13 +59,23 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 86 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 87 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**22 October 2026**: one new project and six projects improved.
+
+- **New: [Readyby](https://github.com/johanthegoatt/readyby)** gets every dish ready at the same time. It works backwards from your serving time, builds in the rest for the meat, flags when two oven dishes want different heat, and names the temperature to check the joint with. Ding the kitchen timer keeps you company. [Try it](https://readyby.johanthegoat.xyz).
+- **[Recoup](https://github.com/johanthegoatt/recoup)**: extended holiday return windows, so a gift bought in November can go back into January, using the big shops' published holiday policies.
+- **[Divvy](https://github.com/johanthegoatt/divvy)**: split shared bills equally on top of the rent, so each housemate sees the real monthly cheque, not just the room rent.
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: added Australia and India passport photo sizes, each with its official head-size band.
+- **[Prorate](https://github.com/johanthegoatt/prorate)**: a short-let mode that prices a whole fixed-term tenancy, a part-month at each end and the full months between, three ways at once.
+- **[Wattson](https://github.com/johanthegoatt/wattson)**: a "used" setting for each thing, so a space heater or air conditioner is costed for the months it actually runs, not all year.
+- **[Fridgewise](https://github.com/johanthegoatt/fridgewise)**: a "use it or freeze it" nudge that works out the last day you can still freeze something to save it.
+
 **19 October 2026**: one new project and four projects improved.
 
 - **New: [Recoup](https://github.com/johanthegoatt/recoup)** tracks the last day you can take things back, counts down the days, and knows the return rights the law gives you on top of the shop's own policy. Fetch the dog keeps an eye on the dates. [Try it](https://recoup.johanthegoat.xyz).
