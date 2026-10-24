@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 87 projects, 58 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 89 projects, 60 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/87%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/58%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/89%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/60%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,8 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Sizely](https://sizely.johanthegoat.xyz)** | Turn a US, UK or EU size into the others, or get your size from a measurement, for shoes and clothes. It leans on the measurement because fit, not price, is the top reason clothes get sent back. Tam the tape measure helps. | JavaScript, SVG |
+| **[Packfit](https://packfit.johanthegoat.xyz)** | Will your bag fit? Type its size and weight, pick the airline, and get a plain yes or no with the exact amount to shave off or lift out. Measures a cabin bag side by side and a hold bag on the three sides added up. Stow the suitcase helps. | JavaScript, SVG |
 | **[Readyby](https://readyby.johanthegoat.xyz)** | Tell it what you're cooking and when you want to eat, and it works out when to start each dish so the roast, the potatoes and the veg all land together, with safe pull temperatures and an oven-clash check. Ding the kitchen timer helps. | JavaScript, SVG |
 | **[Divvy](https://divvy.johanthegoat.xyz)** | Split the rent when the rooms aren't equal. Everyone says what each room is worth to them and it sets envy-free rents nobody would swap, with shared bills on top. Nook the little house helps. | JavaScript, SVG |
 | **[Recoup](https://recoup.johanthegoat.xyz)** | Track the last day you can take things back. It counts down every return window, sorts by what closes first, and knows the rights the law gives you on top of the shop's policy. Fetch the dog keeps watch. | JavaScript, SVG |
@@ -59,13 +61,23 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 87 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 89 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**24 October 2026**: one new project, five improved, and Packfit now live.
+
+- **New: [Sizely](https://github.com/johanthegoatt/sizely)** turns a US, UK or EU size into the others, or reads your size off a measurement, for shoes and clothes. It leans on the measurement because fit, not price, is the top reason clothes get sent back. Tam the tape measure helps. [Try it](https://sizely.johanthegoat.xyz).
+- **Now live: [Packfit](https://github.com/johanthegoatt/packfit)** checks a bag against an airline's cabin or hold limit and says exactly how much to shave off or lift out. Stow the suitcase helps. [Try it](https://packfit.johanthegoat.xyz).
+- **[EvenUp](https://github.com/johanthegoatt/evenup)**: Cash App and Venmo handles now fill in the amount on the pay link (and Venmo picks up the trip name), the same as PayPal and Monzo already did.
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: lay the photo sheet out on A4 or US Letter and run it off on an ordinary printer, not just a 4x6 photo print.
+- **[ChoreShare](https://github.com/johanthegoatt/choreshare)**: mark a chore as someone's own and it always goes to them, still counting towards their share; tick two people and they share just that one.
+- **[Batchwise](https://github.com/johanthegoatt/batchwise)**: change the pan and it now guides the bake time too, since a deeper tin bakes slower and a wider one faster, with a time to start checking.
+- **[RoomCoat](https://github.com/johanthegoatt/roomcoat)**: bare or new woodwork now adds a wood-primer coat before the topcoats, as its own line on the shopping list.
+
 **22 October 2026**: one new project and six projects improved.
 
 - **New: [Readyby](https://github.com/johanthegoatt/readyby)** gets every dish ready at the same time. It works backwards from your serving time, builds in the rest for the meat, flags when two oven dishes want different heat, and names the temperature to check the joint with. Ding the kitchen timer keeps you company. [Try it](https://readyby.johanthegoat.xyz).
