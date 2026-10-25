@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 89 projects, 60 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 90 projects, 61 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/89%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/60%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/90%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/61%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -49,6 +49,7 @@ stale copy of its own app.
 | **[FocusForge](https://johanthegoat.xyz/work/focusforge/)** | A focus timer that keeps time in a hidden or reloaded tab, rings when time is up and shows where your week went, with Ember the spark mascot. | JavaScript, Web Audio, SVG |
 | **[Shelf Check](https://johanthegoat.xyz/work/shelf-check/)** | Type what each shelf label says and see which pack is really cheaper, with multi-buy offers counted and the bigger-pack trap flagged. Works offline in the shop. | JavaScript, PWA |
 | **[EvenUp](https://johanthegoat.xyz/work/evenup/)** | Split group costs and settle up in the fewest payments, solved exactly with a subset dynamic program. Writes the pay-me-back message for you. | JavaScript, SVG |
+| **[Setout](https://setout.johanthegoat.xyz)** | How many tiles a floor or wall needs, with spares, and where to start laying them so you don't finish on a thin sliver cut. Set-out follows BS 5385 and the TCNA wastage bands. | JavaScript, SVG |
 | **[MindMesh Board](https://johanthegoat.xyz/work/mindmesh/)** | Jot ideas, link them, and tidy them with a force-directed layout. Keyboard first, a pasted list becomes a map, and deletes stay deleted across tabs. | JavaScript, SVG, BroadcastChannel |
 | **[Rate Limit Lab](https://johanthegoat.xyz/work/ratelimit-lab/)** | Five rate limiting algorithms, an HTTP middleware that speaks the IETF RateLimit headers, and a simulator that runs them side by side. | JavaScript, Node |
 | **[Idempotency Lab](https://github.com/johanthegoatt/idempotency-lab)** | An Idempotency-Key middleware for node:http built to the IETF draft, and a simulator that shows what retries do to a payments API with and without it. | JavaScript, Node |
@@ -61,13 +62,22 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 89 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 90 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**25 October 2026**: one new project and five improved.
+
+- **New: [Setout](https://github.com/johanthegoatt/setout)** works out how many tiles a floor or wall needs, with the right spares, and where to start laying them so you don't finish on a thin sliver cut against the wall. Chip the tile plans the job. [Try it](https://setout.johanthegoat.xyz).
+- **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: ranks tinned food on its drained weight, not the net weight in brine, so you aren't paying for the water it sits in.
+- **[Divvy](https://github.com/johanthegoatt/divvy)**: splits the deposit in proportion to each person's rent, not equally, since the deposit is set as a multiple of the rent and the small room shouldn't carry the same share.
+- **[Prorate](https://github.com/johanthegoatt/prorate)**: a rent quoted per week, four weeks or year is turned into the right monthly figure first (per week is times 52 over 12, not times 4) before it prorates.
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: added the China visa (33x48 mm) and Philippines (35x45 mm) photo sizes, each with its own head-size band.
+- **[Wattson](https://github.com/johanthegoatt/wattson)**: adds the VAT on the bill, the reduced 5% rate UK domestic energy carries, so the headline is what you actually pay.
+
 **24 October 2026**: one new project, five improved, and Packfit now live.
 
 - **New: [Sizely](https://github.com/johanthegoatt/sizely)** turns a US, UK or EU size into the others, or reads your size off a measurement, for shoes and clothes. It leans on the measurement because fit, not price, is the top reason clothes get sent back. Tam the tape measure helps. [Try it](https://sizely.johanthegoat.xyz).
