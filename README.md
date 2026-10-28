@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 90 projects, 61 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 91 projects, 62 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/90%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/61%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/91%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/62%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Layline](https://layline.johanthegoat.xyz)** | Work out how much carpet or vinyl to buy off a fixed-width roll, which way to run it, where any seam falls and how much you waste. It tries both ways round and prefers the one that needs no seam. Rollo the roll helps. | JavaScript, SVG |
 | **[Sizely](https://sizely.johanthegoat.xyz)** | Turn a US, UK or EU size into the others, or get your size from a measurement, for shoes and clothes. It leans on the measurement because fit, not price, is the top reason clothes get sent back. Tam the tape measure helps. | JavaScript, SVG |
 | **[Packfit](https://packfit.johanthegoat.xyz)** | Will your bag fit? Type its size and weight, pick the airline, and get a plain yes or no with the exact amount to shave off or lift out. Measures a cabin bag side by side and a hold bag on the three sides added up. Stow the suitcase helps. | JavaScript, SVG |
 | **[Readyby](https://readyby.johanthegoat.xyz)** | Tell it what you're cooking and when you want to eat, and it works out when to start each dish so the roast, the potatoes and the veg all land together, with safe pull temperatures and an oven-clash check. Ding the kitchen timer helps. | JavaScript, SVG |
@@ -62,13 +63,23 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 90 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 91 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**28 October 2026**: one new project and six improved.
+
+- **New: [Layline](https://github.com/johanthegoatt/layline)** works out how much carpet or vinyl to buy off a fixed-width roll, which way to run it, where any seam ends up and how much gets trimmed off. It tries the roll both ways round and prefers the one that covers the room in a single piece, because a seam is the thing people regret. Rollo the roll picks the run. [Try it](https://layline.johanthegoat.xyz).
+- **[Readyby](https://github.com/johanthegoatt/readyby)**: the pull temperature now allows for carryover, so you take a roast out of the oven a few degrees early and let it coast up to the doneness you wanted while it rests, instead of overshooting.
+- **[Fridgewise](https://github.com/johanthegoatt/fridgewise)**: a "Thawed it" button restarts the clock on a frozen item's fridge life, so a chicken that kept for months in the freezer now shows the day or two it really has once defrosted.
+- **[Recoup](https://github.com/johanthegoatt/recoup)**: an online return window now counts from the day the parcel arrives, not the day you ordered, following the Consumer Contracts Regulations where the cancellation period runs from delivery.
+- **[Sizely](https://github.com/johanthegoatt/sizely)**: added kids' clothes, sized by the child's height (the one fixed number) with the US and UK age equivalents alongside.
+- **[Packfit](https://github.com/johanthegoatt/packfit)**: added the free under-seat personal item for American and United, the extra bag you get on top of the carry-on and the only free one on a US Basic Economy fare.
+- **[Wattson](https://github.com/johanthegoatt/wattson)**: a washing machine, tumble dryer or dishwasher now shows the cost of a single load next to the yearly figure, the way their energy labels are quoted.
+
 **25 October 2026**: one new project and five improved.
 
 - **New: [Setout](https://github.com/johanthegoatt/setout)** works out how many tiles a floor or wall needs, with the right spares, and where to start laying them so you don't finish on a thin sliver cut against the wall. Chip the tile plans the job. [Try it](https://setout.johanthegoat.xyz).
