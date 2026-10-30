@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 91 projects, 62 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 92 projects, 63 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/91%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/62%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/92%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/63%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -18,7 +18,7 @@
 
 ### What I build
 
-Projects that run, not screenshots of projects. Fifty-one of them run in a browser tab and have to
+Projects that run, not screenshots of projects. Fifty-two of them run in a browser tab and have to
 hold their frame rate while they do it, driving hand and face tracking through WebGL particles or
 compute shaders written in WGSL. The rest carry a real backend: schemas, migrations, HTTP APIs, a
 CRDT that reconverges three offline replicas without a server deciding anything. Some are desktop
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Draper](https://draper.johanthegoat.xyz)** | Work out how much fabric to make your curtains: the metres to order, the number of widths to join, the cut length and the waste, from the track width, drop and heading style. A curtain is gathered, so it needs far more fabric than the window is wide. Bobbin the spool helps. | JavaScript, SVG |
 | **[Layline](https://layline.johanthegoat.xyz)** | Work out how much carpet or vinyl to buy off a fixed-width roll, which way to run it, where any seam falls and how much you waste. It tries both ways round and prefers the one that needs no seam. Rollo the roll helps. | JavaScript, SVG |
 | **[Sizely](https://sizely.johanthegoat.xyz)** | Turn a US, UK or EU size into the others, or get your size from a measurement, for shoes and clothes. It leans on the measurement because fit, not price, is the top reason clothes get sent back. Tam the tape measure helps. | JavaScript, SVG |
 | **[Packfit](https://packfit.johanthegoat.xyz)** | Will your bag fit? Type its size and weight, pick the airline, and get a plain yes or no with the exact amount to shave off or lift out. Measures a cabin bag side by side and a hold bag on the three sides added up. Stow the suitcase helps. | JavaScript, SVG |
@@ -63,13 +64,24 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 91 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 92 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**30 October 2026**: one new project and seven improved.
+
+- **New: [Draper](https://github.com/johanthegoatt/draper)** works out how much fabric to make your curtains: the metres to order, how many widths to join, the cut length of each drop and the waste, from the track width, the drop and the heading style. A curtain is gathered, so it needs far more fabric than the window is wide, cut off a roll in whole widths. Bobbin the spool helps. [Try it](https://draper.johanthegoat.xyz).
+- **[Wattson](https://github.com/johanthegoatt/wattson)**: the tracked appliances are now placed against a typical home, using Ofgem's 2026 Typical Domestic Consumption Values, so a year's kWh reads as low, about average or high (and against an Economy 7 home when a night rate is set).
+- **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: handles "£X each when you buy N" multibuys (a per-unit price you only get at the quantity), telling it apart from a lump "2 for £3" by the word "each".
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: added the Singapore and South Korea passport-photo sizes, both 35×45 mm with the smaller 25–35 mm head height.
+- **[Divvy](https://github.com/johanthegoatt/divvy)**: flags a deposit above the Tenant Fees Act 2019 cap for England (five weeks' rent, or six at £50,000 a year or more), so you catch an unlawful deposit before you pay it.
+- **[Prorate](https://github.com/johanthegoatt/prorate)**: type the part-month figure your landlord actually quoted and it says which method it matches, or that it's more than any fair split.
+- **[Fridgewise](https://github.com/johanthegoatt/fridgewise)**: each food now knows whether its date is about safety or quality, so a tracked item near its date says "eat it or freeze it now" for raw meat and dairy, or "usually fine a little after" for bread and produce, following the FSA's use-by vs best-before split.
+- **[Recoup](https://github.com/johanthegoatt/recoup)**: a faulty return no longer has a restocking fee taken off; a faulty item is a full refund by law (Consumer Rights Act 2015), and the line now says so.
+
 **28 October 2026**: one new project and six improved.
 
 - **New: [Layline](https://github.com/johanthegoatt/layline)** works out how much carpet or vinyl to buy off a fixed-width roll, which way to run it, where any seam ends up and how much gets trimmed off. It tries the roll both ways round and prefers the one that covers the room in a single piece, because a seam is the thing people regret. Rollo the roll picks the run. [Try it](https://layline.johanthegoat.xyz).
