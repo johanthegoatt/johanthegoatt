@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 92 projects, 63 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 93 projects, 64 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/92%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/63%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/93%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/64%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Parcelwise](https://parcelwise.johanthegoat.xyz)** | Work out what a courier will really charge to post a parcel. They bill on the greater of the weight and the box size, so a light thing in a big box costs a fortune. Parcelwise shows the volumetric weight, which one you'll be billed on, how much air you're paying for, and the smaller box that would stop it. Boxy the box helps. | JavaScript, SVG |
 | **[Draper](https://draper.johanthegoat.xyz)** | Work out how much fabric to make your curtains: the metres to order, the number of widths to join, the cut length and the waste, from the track width, drop and heading style. A curtain is gathered, so it needs far more fabric than the window is wide. Bobbin the spool helps. | JavaScript, SVG |
 | **[Layline](https://layline.johanthegoat.xyz)** | Work out how much carpet or vinyl to buy off a fixed-width roll, which way to run it, where any seam falls and how much you waste. It tries both ways round and prefers the one that needs no seam. Rollo the roll helps. | JavaScript, SVG |
 | **[Sizely](https://sizely.johanthegoat.xyz)** | Turn a US, UK or EU size into the others, or get your size from a measurement, for shoes and clothes. It leans on the measurement because fit, not price, is the top reason clothes get sent back. Tam the tape measure helps. | JavaScript, SVG |
@@ -64,13 +65,23 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 92 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 93 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**31 October 2026**: one new project and six improved.
+
+- **New: [Parcelwise](https://github.com/johanthegoatt/parcelwise)** works out what a courier will really charge to post a parcel. Couriers bill on the greater of the weight and the box size, so a light thing in a big box costs a fortune; Parcelwise shows the volumetric (box-size) weight, which one you'll be billed on, how much air you're paying for, and the smaller box that would stop it. Boxy the box helps. [Try it](https://parcelwise.johanthegoat.xyz).
+- **[Setout](https://github.com/johanthegoatt/setout)**: a window or door now comes off the tiled area, with the ring of cut tiles around its edge added back, since the offcut is usually too small to reuse.
+- **[Layline](https://github.com/johanthegoatt/layline)**: a stairs calculator for a straight flight, working out the running metres off the roll from the tread, riser and nosing of each step, with the pile running down the stairs.
+- **[Sizely](https://github.com/johanthegoatt/sizely)**: a ring-size converter, anchored on the ISO 8653 inner circumference (the exact EU/ISO number), giving the US number and UK letter from a finger measurement or a known size.
+- **[Packfit](https://github.com/johanthegoatt/packfit)**: a cabin-liquids 3-1-1 check, flagging any bottle over 100 ml and warning when even compliant ones won't fit the one clear bag (a US quart or the EU 1-litre).
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: an exact print-resolution readout, the dpi your photo prints at against the 300 and 600 dpi bars, plus a warning when it's under the country's online-form minimum pixel size.
+- **[Readyby](https://github.com/johanthegoatt/readyby)**: a "finished early?" keep-warm panel, holding a dish safely above 60°C in a warm oven, tented while it rests, or under the 2-hour rule, with a warning when the hold runs too long.
+
 **30 October 2026**: one new project and seven improved.
 
 - **New: [Draper](https://github.com/johanthegoatt/draper)** works out how much fabric to make your curtains: the metres to order, how many widths to join, the cut length of each drop and the waste, from the track width, the drop and the heading style. A curtain is gathered, so it needs far more fabric than the window is wide, cut off a roll in whole widths. Bobbin the spool helps. [Try it](https://draper.johanthegoat.xyz).
