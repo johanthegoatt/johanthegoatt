@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 93 projects, 64 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 94 projects, 65 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/93%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/64%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/94%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/65%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Dropmatch](https://dropmatch.johanthegoat.xyz)** | Work out how many rolls of wallpaper a room really needs. A patterned paper needs more than "width times height" says, because every strip has to line up and the offcut is waste. Dropmatch gives the drops, the rolls, the waste and a spare, and shows how a straight match and a half-drop differ. Sweep the smoothing brush helps. | JavaScript, SVG |
 | **[Parcelwise](https://parcelwise.johanthegoat.xyz)** | Work out what a courier will really charge to post a parcel. They bill on the greater of the weight and the box size, so a light thing in a big box costs a fortune. Parcelwise shows the volumetric weight, which one you'll be billed on, how much air you're paying for, and the smaller box that would stop it. Boxy the box helps. | JavaScript, SVG |
 | **[Draper](https://draper.johanthegoat.xyz)** | Work out how much fabric to make your curtains: the metres to order, the number of widths to join, the cut length and the waste, from the track width, drop and heading style. A curtain is gathered, so it needs far more fabric than the window is wide. Bobbin the spool helps. | JavaScript, SVG |
 | **[Layline](https://layline.johanthegoat.xyz)** | Work out how much carpet or vinyl to buy off a fixed-width roll, which way to run it, where any seam falls and how much you waste. It tries both ways round and prefers the one that needs no seam. Rollo the roll helps. | JavaScript, SVG |
@@ -65,13 +66,22 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 93 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 94 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**3 November 2026**: one new project and five improved.
+
+- **New: [Dropmatch](https://github.com/johanthegoatt/dropmatch)** works out how many rolls of wallpaper a room really needs. A patterned paper needs more than "width times height" says, because every strip has to begin at the same point in the design so the strips line up, so each drop is cut up to a whole pattern repeat longer than the wall and the offcut is waste. Dropmatch gives the drops, the rolls, the waste and a spare, and shows how a straight match and a half-drop (which wastes more) differ. Sweep the smoothing brush helps. [Try it](https://dropmatch.johanthegoat.xyz).
+- **[RoomCoat](https://github.com/johanthegoatt/roomcoat)**: a deep red, bright yellow or orange now adds a coat, since those pigments cover poorly and paint makers flag them as needing extra coats (a grey undercoat helps too).
+- **[Batchwise](https://github.com/johanthegoatt/batchwise)**: a high-altitude baking card, giving the usual adjustments above 3,000 ft (a little less leavening and sugar, a little more liquid, a hotter oven) in bands, from the Colorado State Extension and King Arthur figures.
+- **[ChoreShare](https://github.com/johanthegoatt/choreshare)**: a weekly time cap per person, a soft limit so a housemate who can only spare half an hour gets the lighter load and the rest pick up the slack, without a job ever being left undone.
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: added the Thailand visa (35×45 mm) and Vietnam e-visa (40×60 mm, white background) photo sizes, the Vietnam one a taller 4×6 cm shape.
+- **[Sizely](https://github.com/johanthegoatt/sizely)**: a hat-size converter from the head's circumference, giving the US, UK and EU sizes and the S–XL band, where EU is the circumference in cm and the US is the hat's diameter in inches.
+
 **31 October 2026**: one new project and six improved.
 
 - **New: [Parcelwise](https://github.com/johanthegoatt/parcelwise)** works out what a courier will really charge to post a parcel. Couriers bill on the greater of the weight and the box size, so a light thing in a big box costs a fortune; Parcelwise shows the volumetric (box-size) weight, which one you'll be billed on, how much air you're paying for, and the smaller box that would stop it. Boxy the box helps. [Try it](https://parcelwise.johanthegoat.xyz).
