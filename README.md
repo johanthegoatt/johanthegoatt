@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 94 projects, 65 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 95 projects, 66 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/94%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/65%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/95%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/66%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Trivet](https://trivet.johanthegoat.xyz)** | Work out what time to put the roast in so dinner lands on the table on time and cooked through. Tell it what you're cooking, the weight and when you want to eat, and it counts back to the oven time, the time it comes out, the temperature to cook to, and when to start thawing a frozen bird. Pip the thermometer helps. | JavaScript, SVG |
 | **[Dropmatch](https://dropmatch.johanthegoat.xyz)** | Work out how many rolls of wallpaper a room really needs. A patterned paper needs more than "width times height" says, because every strip has to line up and the offcut is waste. Dropmatch gives the drops, the rolls, the waste and a spare, and shows how a straight match and a half-drop differ. Sweep the smoothing brush helps. | JavaScript, SVG |
 | **[Parcelwise](https://parcelwise.johanthegoat.xyz)** | Work out what a courier will really charge to post a parcel. They bill on the greater of the weight and the box size, so a light thing in a big box costs a fortune. Parcelwise shows the volumetric weight, which one you'll be billed on, how much air you're paying for, and the smaller box that would stop it. Boxy the box helps. | JavaScript, SVG |
 | **[Draper](https://draper.johanthegoat.xyz)** | Work out how much fabric to make your curtains: the metres to order, the number of widths to join, the cut length and the waste, from the track width, drop and heading style. A curtain is gathered, so it needs far more fabric than the window is wide. Bobbin the spool helps. | JavaScript, SVG |
@@ -66,13 +67,24 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 94 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 95 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**6 November 2026**: one new project and seven improved.
+
+- **New: [Trivet](https://github.com/johanthegoatt/trivet)** works out what time to put the roast in so dinner lands on the table on time and cooked through. Tell it what you're cooking, the weight and when you want to eat, and it counts back to the oven time, gives the time it comes out and the temperature to cook to, and, if it's frozen, when to start thawing. A clock is only an estimate, so it leans on the temperature. Pip the thermometer helps. [Try it](https://trivet.johanthegoat.xyz).
+- **[Layline](https://github.com/johanthegoatt/layline)**: a "by the pack" option for hard flooring (laminate, LVT, engineered board), working out the packs from the room area plus a cutting margin that's bigger for a diagonal or herringbone lay and a little more in a small room.
+- **[Sizely](https://github.com/johanthegoatt/sizely)**: a glove-size converter from the hand's circumference, where the size is simply that measurement in inches and the S–XL band leans smaller for women and larger for men.
+- **[Packfit](https://github.com/johanthegoatt/packfit)**: a powders check for flights to or through the US, flagging any powder of 350 ml / 12 oz or more that can be pulled at security and is safer in the hold.
+- **[Parcelwise](https://github.com/johanthegoatt/parcelwise)**: bills on the box the courier actually measures, rounding each side up to the next whole centimetre or inch, which can nudge the chargeable weight into the next kilo.
+- **[Draper](https://github.com/johanthegoatt/draper)**: a stack-back estimate, how far the open curtains bunch, so the pole can run that far past the glass and the curtains don't sit over the window and lose light.
+- **[Setout](https://github.com/johanthegoatt/setout)**: an edge-trim count from the exposed tile edge, in whole trim lengths with a little spare for mitres, for an edge that ends in the open, wraps a corner or frames a reveal.
+- **[Readyby](https://github.com/johanthegoatt/readyby)**: a preheat step, turning the oven on ahead of the first dish so a cold oven doesn't run the timings long, and a little longer for a hotter oven.
+
 **3 November 2026**: one new project and five improved.
 
 - **New: [Dropmatch](https://github.com/johanthegoatt/dropmatch)** works out how many rolls of wallpaper a room really needs. A patterned paper needs more than "width times height" says, because every strip has to begin at the same point in the design so the strips line up, so each drop is cut up to a whole pattern repeat longer than the wall and the offcut is waste. Dropmatch gives the drops, the rolls, the waste and a spare, and shows how a straight match and a half-drop (which wastes more) differ. Sweep the smoothing brush helps. [Try it](https://dropmatch.johanthegoat.xyz).
