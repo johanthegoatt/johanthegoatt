@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 95 projects, 66 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 96 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/95%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/66%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/96%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
 
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Ampton](https://ampton.johanthegoat.xyz)** | Is that too much on one socket? Add up everything plugged into one wall socket or extension lead and see if it's within the 13-amp (about 3,000-watt) limit or heading for an overload. It catches the four-way trap (a lead is rated for the whole lead, not per socket), flags the high-power appliances best left on their own socket, and warns about daisy-chaining. Jack the plug helps. | JavaScript, SVG |
 | **[Trivet](https://trivet.johanthegoat.xyz)** | Work out what time to put the roast in so dinner lands on the table on time and cooked through. Tell it what you're cooking, the weight and when you want to eat, and it counts back to the oven time, the time it comes out, the temperature to cook to, and when to start thawing a frozen bird. Pip the thermometer helps. | JavaScript, SVG |
 | **[Dropmatch](https://dropmatch.johanthegoat.xyz)** | Work out how many rolls of wallpaper a room really needs. A patterned paper needs more than "width times height" says, because every strip has to line up and the offcut is waste. Dropmatch gives the drops, the rolls, the waste and a spare, and shows how a straight match and a half-drop differ. Sweep the smoothing brush helps. | JavaScript, SVG |
 | **[Parcelwise](https://parcelwise.johanthegoat.xyz)** | Work out what a courier will really charge to post a parcel. They bill on the greater of the weight and the box size, so a light thing in a big box costs a fortune. Parcelwise shows the volumetric weight, which one you'll be billed on, how much air you're paying for, and the smaller box that would stop it. Boxy the box helps. | JavaScript, SVG |
@@ -67,13 +68,24 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 95 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 96 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**7 November 2026**: one new project and seven improved.
+
+- **New: [Ampton](https://github.com/johanthegoatt/ampton)** adds up everything plugged into one wall socket or extension lead and says whether it's within the 13-amp (about 3,000-watt) limit or heading for an overload. It catches the four-way trap (a lead is rated for the whole lead, not per socket), flags the high-power appliances that are best on their own socket, and warns about daisy-chaining one lead into another. Jack the plug helps. [Try it](https://ampton.johanthegoat.xyz).
+- **[Divvy](https://github.com/johanthegoatt/divvy)**: a council tax line that knows the student disregard, so an all-student house is exempt, one counted adult gets the 25% single-person discount, and the bill is shared only among the non-students.
+- **[Prorate](https://github.com/johanthegoatt/prorate)**: a rent-change mode for when the rent rises partway through a month, splitting the month between the old and new rate across the methods and showing what the increase adds.
+- **[Recoup](https://github.com/johanthegoatt/recoup)**: an online cooling-off cancellation now waives the restocking fee, which can't be charged within the 14 days under the Consumer Contracts Regulations 2013, refunds the standard outbound delivery, and shows the extra 14 days you have to post it back.
+- **[Fridgewise](https://github.com/johanthegoatt/fridgewise)**: a 2-hour rule check for food left out of the fridge, with the shorter 1-hour limit on a hot day, from the USDA "danger zone" guidance.
+- **[Batchwise](https://github.com/johanthegoatt/batchwise)**: a yeast-swap card between instant, active dry and fresh (the 1 : 1.25 : 3 ratio by weight), with a note on whether the new kind needs dissolving first.
+- **[ChoreShare](https://github.com/johanthegoatt/choreshare)**: a chore's typical minutes now fill in from its name (vacuum, bins, dishes and the rest), from published cleaning-time guides, until you set your own.
+- **[Dropmatch](https://github.com/johanthegoatt/dropmatch)**: full-height doors now take whole strips off the roll count, since there's no wall above a door to paper, while windows still don't because the offcuts cover them.
+
 **6 November 2026**: one new project and seven improved.
 
 - **New: [Trivet](https://github.com/johanthegoatt/trivet)** works out what time to put the roast in so dinner lands on the table on time and cooked through. Tell it what you're cooking, the weight and when you want to eat, and it counts back to the oven time, gives the time it comes out and the temperature to cook to, and, if it's frozen, when to start thawing. A clock is only an estimate, so it leans on the temperature. Pip the thermometer helps. [Try it](https://trivet.johanthegoat.xyz).
