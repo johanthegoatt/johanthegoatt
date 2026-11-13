@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 96 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 97 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/96%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/97%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Picket](https://github.com/johanthegoatt/picket)** | What to buy for a fence. Tell it how long a run you want and it gives the shopping list: how many panels and posts, how long the posts need to be, the bags of postmix to set them in, and the gravel boards and caps. It counts one more post than panels, sizes the post from a buried third of its height, and shows the cut on the last panel. Perry the post helps. | JavaScript, SVG |
 | **[Ampton](https://ampton.johanthegoat.xyz)** | Is that too much on one socket? Add up everything plugged into one wall socket or extension lead and see if it's within the 13-amp (about 3,000-watt) limit or heading for an overload. It catches the four-way trap (a lead is rated for the whole lead, not per socket), flags the high-power appliances best left on their own socket, and warns about daisy-chaining. Jack the plug helps. | JavaScript, SVG |
 | **[Trivet](https://trivet.johanthegoat.xyz)** | Work out what time to put the roast in so dinner lands on the table on time and cooked through. Tell it what you're cooking, the weight and when you want to eat, and it counts back to the oven time, the time it comes out, the temperature to cook to, and when to start thawing a frozen bird. Pip the thermometer helps. | JavaScript, SVG |
 | **[Dropmatch](https://dropmatch.johanthegoat.xyz)** | Work out how many rolls of wallpaper a room really needs. A patterned paper needs more than "width times height" says, because every strip has to line up and the offcut is waste. Dropmatch gives the drops, the rolls, the waste and a spare, and shows how a straight match and a half-drop differ. Sweep the smoothing brush helps. | JavaScript, SVG |
@@ -68,13 +69,26 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 96 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 97 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**13 November 2026**: one new project and nine improved.
+
+- **New: [Picket](https://github.com/johanthegoatt/picket)** turns the length of fence you want into the shopping list: how many panels and posts to buy, how long the posts need to be, how many bags of postmix to set them in, and the gravel boards and caps to finish it. It counts one more post than panels, sizes the post from a buried third of its height, and shows the cut on the last panel. Perry the post helps.
+- **[Subbase](https://github.com/johanthegoatt/subbase)**: a job picker that fills in a sensible sub-base depth, from a garden path to a driveway, going deeper on soft ground and calling for a membrane under the stone.
+- **[Barrow](https://github.com/johanthegoatt/barrow)**: a mulch-depth check that flags too thin or too deep and warns off the "mulch volcano", mulch piled against a stem or trunk, which rots the bark.
+- **[Wattson](https://github.com/johanthegoatt/wattson)**: one tap fills the unit rate and standing charge from the current Ofgem price cap, so you can work out running costs without digging out a bill.
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: added the Malaysia (35 x 50 mm) and Taiwan passport photo sizes.
+- **[EvenUp](https://github.com/johanthegoatt/evenup)**: a round-to-whole-amounts option on the settle-up so nobody sends odd pennies, with the rounding shared so it still balances to zero.
+- **[Brushup](https://github.com/johanthegoatt/brushup)**: picks the number of coats from what you're painting over, including the watered-down mist coat that bare new plaster needs first.
+- **[Divvy](https://github.com/johanthegoatt/divvy)**: each person now sees how their room's fair rent compares with a plain even split, so the premium for the big room and the discount for the small one are clear.
+- **[Fridgewise](https://github.com/johanthegoatt/fridgewise)**: a fridge-temperature check against the 0 to 5°C safe band, since the keep times only hold if the fridge is cold enough.
+- **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: the unit price now matches the shelf ticket, per kg or per litre for big packs and per 100 g or 100 ml for small ones.
+
 **7 November 2026**: one new project and seven improved.
 
 - **New: [Ampton](https://github.com/johanthegoatt/ampton)** adds up everything plugged into one wall socket or extension lead and says whether it's within the 13-amp (about 3,000-watt) limit or heading for an overload. It catches the four-way trap (a lead is rated for the whole lead, not per socket), flags the high-power appliances that are best on their own socket, and warns about daisy-chaining one lead into another. Jack the plug helps. [Try it](https://ampton.johanthegoat.xyz).
