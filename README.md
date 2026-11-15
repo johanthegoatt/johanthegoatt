@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 97 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 98 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/97%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/98%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Hangwell](https://github.com/johanthegoatt/hangwell)** | Where to put the nail. Put in your frame sizes and the wall, and it works out the exact nail height off the floor, spaces a row of frames evenly by lining them up on their centre lines, flags a wide or heavy frame for two hooks, and says what fixing the wall needs for the weight. It draws the wall to scale with every nail marked. Tack the thumbtack helps. | JavaScript, SVG |
 | **[Picket](https://github.com/johanthegoatt/picket)** | What to buy for a fence. Tell it how long a run you want and it gives the shopping list: how many panels and posts, how long the posts need to be, the bags of postmix to set them in, and the gravel boards and caps. It counts one more post than panels, sizes the post from a buried third of its height, and shows the cut on the last panel. Perry the post helps. | JavaScript, SVG |
 | **[Ampton](https://ampton.johanthegoat.xyz)** | Is that too much on one socket? Add up everything plugged into one wall socket or extension lead and see if it's within the 13-amp (about 3,000-watt) limit or heading for an overload. It catches the four-way trap (a lead is rated for the whole lead, not per socket), flags the high-power appliances best left on their own socket, and warns about daisy-chaining. Jack the plug helps. | JavaScript, SVG |
 | **[Trivet](https://trivet.johanthegoat.xyz)** | Work out what time to put the roast in so dinner lands on the table on time and cooked through. Tell it what you're cooking, the weight and when you want to eat, and it counts back to the oven time, the time it comes out, the temperature to cook to, and when to start thawing a frozen bird. Pip the thermometer helps. | JavaScript, SVG |
@@ -69,13 +70,22 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 97 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 98 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**15 November 2026**: one new project and five improved.
+
+- **New: [Hangwell](https://github.com/johanthegoatt/hangwell)** plans where to hang your pictures. Put in the frame sizes and the wall, and it gives the exact nail height off the floor (galleries hang the middle of a picture at eye level, and the nail goes above the middle because the wire lifts the frame), spaces a row evenly by lining the frames up on their centre lines, flags a wide or heavy frame for two hooks, and says what fixing the wall needs for the weight. It draws the wall to scale with every nail marked. Tack the thumbtack helps.
+- **[Subbase](https://github.com/johanthegoatt/subbase)**: a sharp-sand laying course for block paving and slabs, the bedding layer that sits on top of the sub-base and is easy to forget when ordering, worked out over the same area.
+- **[Brushup](https://github.com/johanthegoatt/brushup)**: a textured-surface setting that cuts the paint coverage, since a textured or rough wall holds paint in the relief so a litre covers less, down to 55% for bare brick or pebbledash.
+- **[Picket](https://github.com/johanthegoatt/picket)**: a trellis topper that buys taller posts (the post has to clear the fence, the trellis and the buried depth) and adds one trellis panel per bay to the list.
+- **[Draper](https://github.com/johanthegoatt/draper)**: works out the heading tape (curtain tape) to buy, which is sold by the metre, the full top width of each curtain plus a turn-under each end, for a taped heading.
+- **[Snapsize](https://github.com/johanthegoatt/snapsize)**: 5 x 7 in and A5 print sizes, and a tip for which paper fits the most copies of your photo so you print the fewest sheets.
+
 **13 November 2026**: one new project and nine improved.
 
 - **New: [Picket](https://github.com/johanthegoatt/picket)** turns the length of fence you want into the shopping list: how many panels and posts to buy, how long the posts need to be, how many bags of postmix to set them in, and the gravel boards and caps to finish it. It counts one more post than panels, sizes the post from a buried third of its height, and shows the cut on the last panel. Perry the post helps.
