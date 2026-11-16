@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 98 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 99 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/98%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/99%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
@@ -34,6 +34,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Risewell](https://github.com/johanthegoatt/risewell)** | Plan a flight of steps. Put in the floor-to-floor height and it splits the climb into equal steps (every step the same height is the rule people miss), works out the tread depth and the pitch, draws the flight to scale, and ticks the result against the stair rules — UK Building Regs Part K or the US IRC. Newel the post helps. | JavaScript, SVG |
 | **[Hangwell](https://github.com/johanthegoatt/hangwell)** | Where to put the nail. Put in your frame sizes and the wall, and it works out the exact nail height off the floor, spaces a row of frames evenly by lining them up on their centre lines, flags a wide or heavy frame for two hooks, and says what fixing the wall needs for the weight. It draws the wall to scale with every nail marked. Tack the thumbtack helps. | JavaScript, SVG |
 | **[Picket](https://github.com/johanthegoatt/picket)** | What to buy for a fence. Tell it how long a run you want and it gives the shopping list: how many panels and posts, how long the posts need to be, the bags of postmix to set them in, and the gravel boards and caps. It counts one more post than panels, sizes the post from a buried third of its height, and shows the cut on the last panel. Perry the post helps. | JavaScript, SVG |
 | **[Ampton](https://ampton.johanthegoat.xyz)** | Is that too much on one socket? Add up everything plugged into one wall socket or extension lead and see if it's within the 13-amp (about 3,000-watt) limit or heading for an overload. It catches the four-way trap (a lead is rated for the whole lead, not per socket), flags the high-power appliances best left on their own socket, and warns about daisy-chaining. Jack the plug helps. | JavaScript, SVG |
@@ -70,13 +71,22 @@ stale copy of its own app.
 | **[Local-First Sync](https://johanthegoat.xyz/work/local-first-sync/)** | A last-writer-wins CRDT with vector clocks and causal delivery, written from scratch. Property-tested across 40 randomised edit-and-gossip orders. | JavaScript, CRDT, Node |
 | **[UPCAT Reviewer](https://johanthegoat.xyz/work/upcat-reviewer/)** | Adaptive study system over 1,017 questions and 28 topics that learns which topics you are weak at and schedules what to review next. | PWA, IndexedDB, Service Worker |
 
-<p align="right"><a href="https://johanthegoat.xyz"><b>All 98 projects</b></a></p>
+<p align="right"><a href="https://johanthegoat.xyz"><b>All 99 projects</b></a></p>
 
 ---
 
 ### Latest updates
 
 <!-- updates:start -->
+**16 November 2026**: one new project and five improved.
+
+- **New: [Risewell](https://github.com/johanthegoatt/risewell)** plans a flight of steps. Put in the floor-to-floor height and it splits the climb into equal steps — every step the same height is the rule people miss, because one odd step is what trips you — then works out the tread depth, the pitch and the total run, draws the flight in profile to scale, and ticks the result against the stair rules where you build: UK Building Regs Part K, or the US IRC. Newel the post helps.
+- **[Setout](https://github.com/johanthegoatt/setout)** now checks a wall tile's weight against the background. It weighs the tile plus its adhesive per square metre and flags when that's over what a skimmed-plaster, plasterboard or plywood wall can safely hold (BS 5385-1), so you know when to board out before you tile.
+- **[Parcelwise](https://github.com/johanthegoatt/parcelwise)** adds the Additional Handling fee. Couriers charge extra for a parcel that's awkward to move — one long side, a heavy box, or a length-plus-girth over a lower line — even when it isn't a full oversize, which catches people out. Now flagged with the reason.
+- **[Packfit](https://github.com/johanthegoatt/packfit)** checks power banks and spare batteries. They must travel in the cabin, never the hold; it works out the watt-hours from the mAh rating and says whether it's fine (up to 100 Wh), needs the airline's OK (100–160 Wh) or isn't allowed (over 160 Wh), to the IATA and FAA rules.
+- **[Divvy](https://github.com/johanthegoatt/divvy)** splits the standing charge fairly. An energy bill has a fixed standing charge you pay whatever you use, so Divvy now splits that part equally and the usage by room share, instead of lumping the whole bill together.
+- **[Readyby](https://github.com/johanthegoatt/readyby)** reminds you to take the joint out of the fridge. A roast put in fridge-cold cooks unevenly and runs long, so the timeline now opens with a "lose the chill" step 30–60 minutes before it goes in, held to the two-hour food-safety limit.
+
 **15 November 2026**: one new project and five improved.
 
 - **New: [Hangwell](https://github.com/johanthegoatt/hangwell)** plans where to hang your pictures. Put in the frame sizes and the wall, and it gives the exact nail height off the floor (galleries hang the middle of a picture at eye level, and the nail goes above the middle because the wire lifts the frame), spaces a row evenly by lining the frames up on their centre lines, flags a wide or heavy frame for two hooks, and says what fixing the wall needs for the weight. It draws the wall to scale with every nail marked. Tack the thumbtack helps.
