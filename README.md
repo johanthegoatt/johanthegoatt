@@ -8,6 +8,13 @@
 </p>
 
 <p align="center">
+  Open for paid freelance, contract and full-time work:
+  <a href="https://johanthegoat.xyz/hire/">hire me</a> ·
+  <a href="https://johanthegoat.xyz/security/">cybersecurity and web security</a> ·
+  <a href="https://johanthegoat.xyz/blog/">security guides</a>
+</p>
+
+<p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/99%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
