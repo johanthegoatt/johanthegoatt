@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 99 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 100 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/99%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/100%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
@@ -41,6 +41,7 @@ stale copy of its own app.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| **[Radwell](https://github.com/johanthegoatt/radwell)** | What size radiator does a room need? Put in the room and it gives the heat needed in watts and BTU, then the radiator to buy once your boiler or heat pump runs the water cooler than the box assumes — output falls with the water-to-room gap by the EN 442 radiator exponent, so on a heat pump you often need roughly double the rated size. Rad the radiator helps. | JavaScript, SVG |
 | **[Risewell](https://github.com/johanthegoatt/risewell)** | Plan a flight of steps. Put in the floor-to-floor height and it splits the climb into equal steps (every step the same height is the rule people miss), works out the tread depth and the pitch, draws the flight to scale, and ticks the result against the stair rules — UK Building Regs Part K or the US IRC. Newel the post helps. | JavaScript, SVG |
 | **[Hangwell](https://github.com/johanthegoatt/hangwell)** | Where to put the nail. Put in your frame sizes and the wall, and it works out the exact nail height off the floor, spaces a row of frames evenly by lining them up on their centre lines, flags a wide or heavy frame for two hooks, and says what fixing the wall needs for the weight. It draws the wall to scale with every nail marked. Tack the thumbtack helps. | JavaScript, SVG |
 | **[Picket](https://github.com/johanthegoatt/picket)** | What to buy for a fence. Tell it how long a run you want and it gives the shopping list: how many panels and posts, how long the posts need to be, the bags of postmix to set them in, and the gravel boards and caps. It counts one more post than panels, sizes the post from a buried third of its height, and shows the cut on the last panel. Perry the post helps. | JavaScript, SVG |
@@ -85,6 +86,15 @@ stale copy of its own app.
 ### Latest updates
 
 <!-- updates:start -->
+**19 November 2026**: one new project and five engineering tools sharpened.
+
+- **New: [Radwell](https://github.com/johanthegoatt/radwell)** works out what size radiator a room needs. Put in the room and it gives the heat needed in watts and BTU, then the radiator you actually have to buy once your boiler or heat pump runs cooler than the test bench. A radiator's box number is measured at a 50°C water-to-room gap; a heat pump runs far cooler, so the same radiator gives out much less, and output falls with the gap by a power of about 1.3 (the EN 442 radiator exponent). Radwell does that sum, so on a heat pump it often tells you to buy roughly double the rated size. Rad the radiator helps.
+- **[consistent-hash-lab](https://github.com/johanthegoatt/consistent-hash-lab)**: added multi-probe consistent hashing (Appleton & O'Reilly, 2015), one point per node plus k key probes, which reaches the ring's even load spread with a fraction of the memory and stays perfectly consistent on a node join.
+- **[tail-latency-lab](https://github.com/johanthegoatt/tail-latency-lab)**: an order-statistics module for the maths behind a fan-out's tail, the expected maximum and quantiles of n latencies in closed form (so doubling the fan-out adds only about mean·ln2), each checked against a seeded Monte Carlo run.
+- **[backoff-lab](https://github.com/johanthegoatt/backoff-lab)**: `moments()` gives the exact mean and variance of each backoff schedule from the uniform-range formulas, so you can compare full and equal jitter without running a simulation.
+- **[idempotency-lab](https://github.com/johanthegoatt/idempotency-lab)**: the `409` sent while a request is still in flight now sets `Retry-After` to the lease actually left on it (RFC 9110), not a flat one second, so a client that honours it waits out the real request instead of hammering a held key.
+- **[goodhours](https://github.com/johanthegoatt/goodhours)**: picking a city now sets that person's working week to the country's own, Sunday to Thursday across much of the Middle East and North Africa, so it won't drop a call on someone's weekend (the UAE moved to Mon–Fri in 2022, so it takes the default).
+
 **16 November 2026**: one new project and five improved.
 
 - **New: [Risewell](https://github.com/johanthegoatt/risewell)** plans a flight of steps. Put in the floor-to-floor height and it splits the climb into equal steps — every step the same height is the rule people miss, because one odd step is what trips you — then works out the tread depth, the pitch and the total run, draws the flight in profile to scale, and ticks the result against the stair rules where you build: UK Building Regs Part K, or the US IRC. Newel the post helps.
