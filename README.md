@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 100 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 101 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/100%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/101%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
@@ -86,6 +86,16 @@ stale copy of its own app.
 ### Latest updates
 
 <!-- updates:start -->
+**20 November 2026**: one new project and six everyday tools sharpened, each change backed by a real rule or standard and shipped with tests.
+
+- **New: [Treadwell](https://github.com/johanthegoatt/treadwell)** plans a home staircase you can actually build. Put in the floor-to-floor height and the tread depth you want, and it divides the climb into equal steps (the height is fixed, so the rise is rarely a round number and every step has to match), works out the pitch and the floor length the stair uses, draws it to scale, and checks it against the UK home-stair rules in Approved Document K: rise 150–220 mm, going at least 220 mm, pitch no steeper than 42°, and the 2× rise + going comfort band. It allows the relaxed 1800 mm loft-stair headroom and tells you if the flight runs past the floor length you have. Newt the newel post helps.
+- **[Trivet](https://github.com/johanthegoatt/trivet)**: a fan (convection) oven option. A fan oven cooks hotter and faster at the same dial, so the roasting time is shortened by about a fifth, with the lower dial setting shown as the alternative that keeps the conventional timing (Dulux/Good Housekeeping conversion).
+- **[Sizely](https://github.com/johanthegoatt/sizely)**: bra sister sizes. A cup's volume comes from the band and cup together, so a 34C is close to a 32D or a 36B; when the calculated size is out of stock or the band feels off, it lists the sister sizes a band either side.
+- **[RoomCoat](https://github.com/johanthegoatt/roomcoat)**: recoat timing. It now tells you whether two coats fit in a day — matt emulsion recoats in about four hours, but a gloss on the woodwork needs the best part of a day, so its second coat is a next-day job (Dulux drying times).
+- **[Shelf Check](https://github.com/johanthegoatt/shelf-check)**: the multibuy trap. A "3 for £5" can be cheapest per unit only because you take the whole deal, so when the per-unit winner needs a multibuy it now also points to the best single-buy price for anyone who only wants one.
+- **[EvenUp](https://github.com/johanthegoatt/evenup)**: tip on the pre-tax subtotal. Enter the tax and the tip is worked out on the food and drink before tax, the etiquette standard (Emily Post), instead of on the taxed total the card machine defaults to.
+- **[Divvy](https://github.com/johanthegoatt/divvy)**: the envy margin. Beyond a yes/no on fairness, the rent split now reports how much each person prefers their own room over the next-best, and the tightest of those margins, which says how robustly the fair split holds if someone's valuation shifts.
+
 **19 November 2026**: one new project and six engineering tools sharpened.
 
 - **New: [Radwell](https://github.com/johanthegoatt/radwell)** works out what size radiator a room needs. Put in the room and it gives the heat needed in watts and BTU, then the radiator you actually have to buy once your boiler or heat pump runs cooler than the test bench. A radiator's box number is measured at a 50°C water-to-room gap; a heat pump runs far cooler, so the same radiator gives out much less, and output falls with the gap by a power of about 1.3 (the EN 442 radiator exponent). Radwell does that sum, so on a heat pump it often tells you to buy roughly double the rated size. Rad the radiator helps.
