@@ -1,5 +1,5 @@
 <a href="https://johanthegoat.xyz">
-  <img width="100%" alt="Alphonso Braga, full-stack engineer. 101 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
+  <img width="100%" alt="Alphonso Braga, full-stack engineer. 102 projects, 67 running live, 18 backends, 9 languages. A mechanical drill worm bursts out of the ground, arcs over the name and burrows back down." src="./profile/driller.svg">
 </a>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://johanthegoat.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/johanthegoat.xyz-5b9dff?style=flat-square&labelColor=08090a&logo=vercel&logoColor=white"></a>
-  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/101%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
+  <a href="https://johanthegoat.xyz"><img alt="Projects" src="https://img.shields.io/badge/102%20projects-a2a8b0?style=flat-square&labelColor=08090a&logo=github&logoColor=white"></a>
   <a href="https://johanthegoat.xyz"><img alt="Live" src="https://img.shields.io/badge/67%20running%20live-a2a8b0?style=flat-square&labelColor=08090a&logo=googlechrome&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=johanthegoatt&base=2582&label=Profile%20views&color=1f78d1&style=flat">
 </p>
@@ -45,6 +45,7 @@ stale copy of its own app.
 | **[Risewell](https://github.com/johanthegoatt/risewell)** | Plan a flight of steps. Put in the floor-to-floor height and it splits the climb into equal steps (every step the same height is the rule people miss), works out the tread depth and the pitch, draws the flight to scale, and ticks the result against the stair rules — UK Building Regs Part K or the US IRC. Newel the post helps. | JavaScript, SVG |
 | **[Hangwell](https://github.com/johanthegoatt/hangwell)** | Where to put the nail. Put in your frame sizes and the wall, and it works out the exact nail height off the floor, spaces a row of frames evenly by lining them up on their centre lines, flags a wide or heavy frame for two hooks, and says what fixing the wall needs for the weight. It draws the wall to scale with every nail marked. Tack the thumbtack helps. | JavaScript, SVG |
 | **[Picket](https://github.com/johanthegoatt/picket)** | What to buy for a fence. Tell it how long a run you want and it gives the shopping list: how many panels and posts, how long the posts need to be, the bags of postmix to set them in, and the gravel boards and caps. It counts one more post than panels, sizes the post from a buried third of its height, and shows the cut on the last panel. Perry the post helps. | JavaScript, SVG |
+| **[Deckwell](https://github.com/johanthegoatt/deckwell)** | What to buy and how to lay a timber deck. Put in the deck size and your board and it gives the boards with spares, the joists and their spacing, the screws, and the gaps that keep a deck from rotting — 400 mm joist centres for a square lay, 300 mm for a diagonal, a 5–8 mm board gap, cross-ventilation underneath. It draws the deck to scale, to the TDCA builder's guidance. Dex the deck board helps. | JavaScript, SVG |
 | **[Ampton](https://ampton.johanthegoat.xyz)** | Is that too much on one socket? Add up everything plugged into one wall socket or extension lead and see if it's within the 13-amp (about 3,000-watt) limit or heading for an overload. It catches the four-way trap (a lead is rated for the whole lead, not per socket), flags the high-power appliances best left on their own socket, and warns about daisy-chaining. Jack the plug helps. | JavaScript, SVG |
 | **[Trivet](https://trivet.johanthegoat.xyz)** | Work out what time to put the roast in so dinner lands on the table on time and cooked through. Tell it what you're cooking, the weight and when you want to eat, and it counts back to the oven time, the time it comes out, the temperature to cook to, and when to start thawing a frozen bird. Pip the thermometer helps. | JavaScript, SVG |
 | **[Dropmatch](https://dropmatch.johanthegoat.xyz)** | Work out how many rolls of wallpaper a room really needs. A patterned paper needs more than "width times height" says, because every strip has to line up and the offcut is waste. Dropmatch gives the drops, the rolls, the waste and a spare, and shows how a straight match and a half-drop differ. Sweep the smoothing brush helps. | JavaScript, SVG |
@@ -86,6 +87,18 @@ stale copy of its own app.
 ### Latest updates
 
 <!-- updates:start -->
+**21 November 2026**: one new project and eight everyday tools sharpened, each change backed by a real rule or standard and shipped with tests.
+
+- **New: [Deckwell](https://github.com/johanthegoatt/deckwell)** works out what to buy and how to lay a timber deck. Put in the deck size and your board, and it gives the boards (with spares), the joists and their spacing, the screws, and the gaps that keep a deck from rotting or cupping — 400 mm joist centres for a square lay, 300 mm for a diagonal, a 5–8 mm board gap and the reminder to leave the underside breathing. It draws the deck to scale with the board rows and the joists underneath, to the TDCA builder's guidance. Dex the deck board helps.
+- **[Ampton](https://github.com/johanthegoatt/ampton)**: the coiled cable reel. A reel left wound up can't shed its own heat, so it's safe at only about a third of its unwound rating; Ampton now derates a wound reel (to its printed figure if you have it, else a conservative third) and warns you to unwind it before anything heavy (ICEA layered ampacity).
+- **[Dropmatch](https://github.com/johanthegoatt/dropmatch)**: what the pattern costs. It now shows how many extra rolls the pattern repeat adds over a plain paper, so while you're still choosing you can see that a smaller repeat or a free match would need fewer rolls.
+- **[Lawnwell](https://github.com/johanthegoatt/lawnwell)**: ordering the topsoil. The bed volume is now broken into bulk bags and small 25 L bags so you can pick the way that suits the job, with an editable bulk-bag size.
+- **[Parcelwise](https://github.com/johanthegoatt/parcelwise)**: Royal Mail weight bands. It now shows which price band a parcel falls in and how few grams you'd trim to drop to the cheaper band below (a Large Letter is 100/250/500/750 g).
+- **[Barrow](https://github.com/johanthegoatt/barrow)**: getting it home. A vehicle picker turns the load weight into trips for a car, van or trailer and flags when even one load is over the payload, so you get it delivered instead of overloading — check your own plate.
+- **[Picket](https://github.com/johanthegoatt/picket)**: mixing your own. Alongside the postmix bag range it now gives the post-hole concrete volume (holes about three times the post width), which is cheaper to mix or order ready-mix for on a long run.
+- **[Subbase](https://github.com/johanthegoatt/subbase)**: compaction layers. A plate compactor only works through about 150 mm at a time, so a deep sub-base is now split into the number of layers to lay and whack down one at a time.
+- **[Hangwell](https://github.com/johanthegoatt/hangwell)**: measure down from the ceiling. Give it the ceiling height and each nail is reported as a drop from the ceiling as well as a height off the floor, since most people hold the tape at the ceiling, not a skirting board that may not be level.
+
 **20 November 2026**: one new project and six everyday tools sharpened, each change backed by a real rule or standard and shipped with tests.
 
 - **New: [Treadwell](https://github.com/johanthegoatt/treadwell)** plans a home staircase you can actually build. Put in the floor-to-floor height and the tread depth you want, and it divides the climb into equal steps (the height is fixed, so the rise is rarely a round number and every step has to match), works out the pitch and the floor length the stair uses, draws it to scale, and checks it against the UK home-stair rules in Approved Document K: rise 150–220 mm, going at least 220 mm, pitch no steeper than 42°, and the 2× rise + going comfort band. It allows the relaxed 1800 mm loft-stair headroom and tells you if the flight runs past the floor length you have. Newt the newel post helps.
